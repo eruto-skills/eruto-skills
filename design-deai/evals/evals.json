@@ -1,0 +1,20 @@
+{
+  "skill_name": "design-deai",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Claude Codeでreact + tailwindのランディングページを作ってもらったんだけど、なんか紫っぽくてダサい気がする。src/ディレクトリを見てAI臭さを診断してDESIGN.mdを作ってほしい",
+      "expected_output": "AIスロップパターン（bg-indigo系の色・Inter固定・rounded-2xl乱用等）を検出し、スロップスコアを算出してDESIGN.mdを生成する"
+    },
+    {
+      "id": 2,
+      "prompt": "vibe codingでcountstack（c:\\@projects\\countstack）を作ったけどデザインがAI臭い。DESIGN.mdを作って脱スロップ化したい",
+      "expected_output": "既存プロジェクトのCSSとコンポーネントを解析し、ブランドカラーがあればそれを活かしたDESIGN.mdを生成する"
+    },
+    {
+      "id": 3,
+      "prompt": "新しいプロジェクトを始める前にDESIGN.mdのテンプレートだけ作ってほしい。まだコードはない",
+      "expected_output": "コードが存在しない場合はテンプレートベースのDESIGN.mdを生成し、TODO箇所をユーザーが後から埋められる形にする"
+    }
+  ]
+}
