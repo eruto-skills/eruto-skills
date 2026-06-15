@@ -1,0 +1,3 @@
+# Eval workspace directories (local only, not production skills)
+design-brief-workspace/
+*-workspace/
