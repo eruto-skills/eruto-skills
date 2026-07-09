@@ -43,3 +43,12 @@
 [submodule "ui-visual-reviewer"]
 	path = ui-visual-reviewer
 	url = https://github.com/eruto-skills/ui-visual-reviewer.git
+[submodule "cook-idea"]
+	path = cook-idea
+	url = https://github.com/eruto-skills/cook-idea.git
+[submodule "mod-idea-dig"]
+	path = mod-idea-dig
+	url = https://github.com/eruto-skills/mod-idea-dig.git
+[submodule "screenshot"]
+	path = screenshot
+	url = https://github.com/eruto-skills/screenshot.git
