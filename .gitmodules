@@ -1,0 +1,45 @@
+[submodule ".github"]
+	path = .github
+	url = https://github.com/eruto-skills/.github.git
+[submodule "analyze-video"]
+	path = analyze-video
+	url = https://github.com/eruto-skills/analyze-video.git
+[submodule "autopilot"]
+	path = autopilot
+	url = https://github.com/eruto-skills/autopilot.git
+[submodule "design-brief"]
+	path = design-brief
+	url = https://github.com/eruto-skills/design-brief.git
+[submodule "design-deai"]
+	path = design-deai
+	url = https://github.com/eruto-skills/design-deai.git
+[submodule "fetch-asset"]
+	path = fetch-asset
+	url = https://github.com/eruto-skills/fetch-asset.git
+[submodule "fetch-web"]
+	path = fetch-web
+	url = https://github.com/eruto-skills/fetch-web.git
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/eruto-skills/marketplace.git
+[submodule "marp"]
+	path = marp
+	url = https://github.com/eruto-skills/marp.git
+[submodule "nanj-thread"]
+	path = nanj-thread
+	url = https://github.com/eruto-skills/nanj-thread.git
+[submodule "presentation"]
+	path = presentation
+	url = https://github.com/eruto-skills/presentation.git
+[submodule "research-note"]
+	path = research-note
+	url = https://github.com/eruto-skills/research-note.git
+[submodule "review-content"]
+	path = review-content
+	url = https://github.com/eruto-skills/review-content.git
+[submodule "slide-visual-reviewer"]
+	path = slide-visual-reviewer
+	url = https://github.com/eruto-skills/slide-visual-reviewer.git
+[submodule "ui-visual-reviewer"]
+	path = ui-visual-reviewer
+	url = https://github.com/eruto-skills/ui-visual-reviewer.git
