@@ -52,3 +52,6 @@
 [submodule "screenshot"]
 	path = screenshot
 	url = https://github.com/eruto-skills/screenshot.git
+[submodule "meal-planner"]
+	path = meal-planner
+	url = https://github.com/eruto-skills/meal-planner.git
