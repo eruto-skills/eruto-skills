@@ -1,3 +1,6 @@
 # Eval workspace directories (local only, not production skills)
 design-brief-workspace/
 *-workspace/
+
+# ローカルAI設定（公開リポジトリのため非追跡）
+CLAUDE.md
