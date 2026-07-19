@@ -4,3 +4,4 @@ design-brief-workspace/
 
 # ローカルAI設定（公開リポジトリのため非追跡）
 CLAUDE.md
+.claude/autopilot/
