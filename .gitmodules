@@ -55,3 +55,6 @@
 [submodule "meal-planner"]
 	path = meal-planner
 	url = https://github.com/eruto-skills/meal-planner.git
+[submodule "research-vault"]
+	path = research-vault
+	url = https://github.com/eruto-skills/research-vault.git
