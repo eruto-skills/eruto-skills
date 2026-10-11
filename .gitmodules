@@ -58,3 +58,9 @@
 [submodule "research-vault"]
 	path = research-vault
 	url = https://github.com/eruto-skills/research-vault.git
+[submodule "steam-review"]
+	path = steam-review
+	url = https://github.com/eruto-skills/steam-review.git
+[submodule "qiita-draft"]
+	path = qiita-draft
+	url = https://github.com/eruto-skills/qiita-draft.git
