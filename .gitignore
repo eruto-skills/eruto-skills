@@ -6,3 +6,6 @@ design-brief-workspace/
 CLAUDE.md
 .claude/autopilot/
 .claude/rules/
+
+# 未公開のスキル（サブモジュール化するまで非追跡）
+youtube-publish/
